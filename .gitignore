@@ -29,3 +29,5 @@ build/
 *.swp
 *.bak
 *.tmp
+
+/bin/
