@@ -5,6 +5,7 @@ This package contains basic Java programs to practice fundamental **Data Structu
 
 ### Current Problems:
 - **Palindrome Checker**: Checks if a string is a palindrome.
+- ** Even or odd **: Check if number is Even or Odd.
 
 ## How to Run
 1. Clone or download this project.
