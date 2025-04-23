@@ -13,7 +13,7 @@ This package contains Java programs dedicated to solving array-based problems as
 
 - **First Non-Repeating Element in Array**  
   Finds the first non-repeating element in a given integer array. A non-repeating element is one that appears only once in the array. If no such element exists, 
-  the program returns -1.
+  the program returns -1. 
   *(Uses Java streams and collection frequency method to find the solution.)*
 
 
